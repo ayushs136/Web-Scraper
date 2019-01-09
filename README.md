@@ -1,4 +1,4 @@
-# WEBSCRAPPER
+# web scraper
 Hey Guys, i'm Krono$ , I just made an awesome webscrapper in python 3. 
 this is a intermediate webscrapper with limited applications like
 downloading images and searching products on flipkart.
